@@ -1,3 +1,1 @@
-FROM tomcat:latest
-COPY ./webapp.war /usr/local/tomcat/webapps
-RUN cp -r /usr/local/tomcat/webapps.dist/* /usr/local/tomcat/webapps
+issue occurred because the license path has been updated on the Sandvox server, while our script is still referring to the older path to stop the license. We need to update the new license path in the Chef script to resolve this.
