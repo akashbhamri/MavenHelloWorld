@@ -1,1 +1,1 @@
-IAC controller experienced a sudden CPU spike, causing it to go down. It is now back online. We have informed the platform team and raised an incident. They are currently working on the RCA."
+"In Splunk logs we are only able to see multiple pipeline triggers to the DL, but the execution duration is not visible. Regarding the graph metrics, the team has already provided an update in the incident. We will inform them to share the same update here as well in such cases."
