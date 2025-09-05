@@ -1,1 +1,1 @@
-“Praneeth, could you clarify if the globalpodtemplate is the one we should be monitoring? I noticed it hasn’t appeared in the past 5 minutes.
+The server has been consistently reaching ~90% memory utilization, which has triggered multiple alerts. High memory usage at this level poses a risk of performance degradation, application instability, and potential downtime. To ensure system reliability, avoid repeated incidents, and maintain smooth application performance, it is necessary to increase the server’s memory capacity.
