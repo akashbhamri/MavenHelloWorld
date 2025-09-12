@@ -1,1 +1,14 @@
-"BB production is up and running smoothly. No release was planned during this period, and there has been no impact on the application team or deployment activities."
+Request for Approval – Action Plan for Rebuild Index & Restart
+
+Hi Praneeth,
+
+Hope you’re doing well. I’d like to seek your approval on the below action plan so the team can respond effectively during such situations:
+
+1. If the rebuild index job runs for more than 10 minutes or causes blocking, can we go ahead and request the DB team to kill the job?
+
+
+2. If a similar issue occurs in the future that requires an application restart, can we proceed with restarting the application without needing additional approval each time?
+
+
+
+This will help us handle such incidents quickly and avoid unnecessary delays. Please confirm if we can proceed with this approach.
