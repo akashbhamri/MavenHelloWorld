@@ -1,1 +1,1 @@
-"We have been noticing repeated discrepancies from the DB side — sometimes the time is incorrect, other times the values are not accurate. This has already happened three times, and alerts are also not being triggered. Can you please help us understand how we can ensure this issue does not repeat going forward?"
+"Praneeth, I need to verify whether the max_file ulimit change is reflecting correctly after applying the fix mentioned in the Confluence. Can I test this on the dev box?"
