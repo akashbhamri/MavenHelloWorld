@@ -1,1 +1,1 @@
-"We are coordinating with the DB team and vendor to confirm if the service can be safely stopped during the index rebuild, which will help avoid active commits impacting the DB team. Additionally, the alert that was previously missed has now been corrected by the DB team."
+“Please follow the steps we discussed for updating the ulimit. Coordinate with Venkata to create an implementation plan along with an impact analysis.”
