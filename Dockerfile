@@ -1,8 +1,10 @@
-Immediate Action Protocol During Index Rebuild
+Subject: Request for Active Support During Index Rebuild
 
 Dear Team,
 
-In line with our call earlier today, the DB team will provide active monitoring throughout the index rebuild window.
-If any blocking is observed, the DB team will capture the diagnostic dump and immediately terminate the affected job to maintain system stability.
+As discussed on the call, we request the DB team to provide active support during the index rebuild window.
+If any blocking is observed, please capture the diagnostic dump and, after obtaining client approval, proceed to terminate the rebuild job to maintain system stability.
 
-Your cooperation in supporting this process is greatly appreciated.
+Your prompt attention and cooperation in executing this process are highly appreciated.
+
+Best regards,
