@@ -1,14 +1,5 @@
-Request for Approval – Action Plan for Rebuild Index & Restart
+We are still trying to understand why node 10.65.4.196 is reflecting a higher value (65k) for MAX_OPEN_FILES, while ulimit -n and the startup script (start_web.sh) are identical across all four nodes.
 
-Hi Praneeth,
+Could you please confirm if you have reviewed the file we attached that contains the Bitbucket ulimit and ulimit -n outputs? We need your help to identify the exact source of this deviation on .196, as the other three nodes are consistent.
 
-Hope you’re doing well. I’d like to seek your approval on the below action plan so the team can respond effectively during such situations:
-
-1. If the rebuild index job runs for more than 10 minutes or causes blocking, can we go ahead and request the DB team to kill the job?
-
-
-2. If a similar issue occurs in the future that requires an application restart, can we proceed with restarting the application without needing additional approval each time?
-
-
-
-This will help us handle such incidents quickly and avoid unnecessary delays. Please confirm if we can proceed with this approach.
+This will help us pinpoint the root cause of the high value being reported and check if it is linked to the spike/load issues we observed.
