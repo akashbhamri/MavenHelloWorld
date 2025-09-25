@@ -1,11 +1,1 @@
-EXECUTE master.dbo.IndexOptimize
-    @Databases = 'USER_DATABASES',
-    @FragmentationLow = NULL,
-    @FragmentationMedium = NULL,
-    @FragmentationHigh = 'INDEX_REBUILD_ONLINE,INDEX_REBUILD',
-    @FragmentationLevel1 = 5,
-    @FragmentationLevel2 = 30,
-    @TimeLimit = 28800,
-    @Indexes = 'ALL_INDEXES',
-    @LogToTable = 'Y',
-    @SortInTempdb = 'Y';
+Please find below the SQL Server index-rebuild command, the full maintenance script, and the MSSQL version details for reference.
