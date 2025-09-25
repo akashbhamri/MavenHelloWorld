@@ -1,2 +1,2 @@
-
-"We have discussed with the DB team and enabled active monitoring from both sides. The DB team will begin monitoring from this weekend. Additionally, we have identified certain parameters for the DB team and are currently validating them with our vendor. Once we receive confirmation, we will implement the changes in the lower environment and verify their effectiveness."
+We are looking into changing the max file, but first we need to identify where exactly this setting is being updated for the particular node, as that’s the key point related to rate limiting. We are discussing this internally and will keep you updated.
+Also, have you had a chance to discuss the DB frequency and the possible value we can set for that parameter?
