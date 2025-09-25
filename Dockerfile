@@ -1,1 +1,1 @@
-Please find below the SQL Server index-rebuild command, the full maintenance script, and the MSSQL version details for reference.
+Thanks for providing this information. I've forwarded the request to our database team, and they will investigate which conditions caused the index rebuild to go offline. I'll let you know what they find."
