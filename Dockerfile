@@ -1,2 +1,4 @@
-We are looking into changing the max file, but first we need to identify where exactly this setting is being updated for the particular node, as that’s the key point related to rate limiting. We are discussing this internally and will keep you updated.
-Also, have you had a chance to discuss the DB frequency and the possible value we can set for that parameter?
+Based on the support bundle, we are reviewing the traffic patterns. Instead of killing the jobs during rebuild, could you please check the logs and let us know the time windows when traffic is relatively low? This will help us reschedule the index rebuild from the current 7 PM slot to a more suitable time and minimize any downtime or service impact.
+
+Thanks,
+[Your Name]
