@@ -1,1 +1,1 @@
-Thanks for providing this information. I've forwarded the request to our database team, and they will investigate which conditions caused the index rebuild to go offline. I'll let you know what they find."
+Thanks for this info. I'm checking with our database team to pinpoint which of these conditions caused the index rebuild to go offline. I'll let you know what we find once they've had a look
