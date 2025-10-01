@@ -1,1 +1,2 @@
-Thanks for this info. I'm checking with our database team to pinpoint which of these conditions caused the index rebuild to go offline. I'll let you know what we find once they've had a look
+Option 2 (neutral):
+"I spoke with Mahesh—he communicates well and has been mostly into consultancy work, preparing SOPs and related tasks. He hasn’t had hands-on experience in monitoring or DevOps, so we’ll need to see how he progresses once KT starts from 3rd October."
