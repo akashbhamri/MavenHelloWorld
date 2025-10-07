@@ -1,1 +1,1 @@
-"Satish is currently coordinating with Seelamuttu on this. Once it’s approved from their end, we can proceed with the final review — the ETA is tomorrow."
+We have removed the INDEX_REBUILD_OFFLINE parameter in the dev environment, and the testing was completed successfully without any issues. We plan to apply the same change in the production environment post-freeze and will closely monitor the applications to ensure stability.
