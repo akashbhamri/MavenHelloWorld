@@ -1,5 +1,22 @@
-We are still trying to understand why node 10.65.4.196 is reflecting a higher value (65k) for MAX_OPEN_FILES, while ulimit -n and the startup script (start_web.sh) are identical across all four nodes.
+Here’s a more polished and professional version — clear, concise, and suitable for change logs, CAB notes, or deployment descriptions:
 
-Could you please confirm if you have reviewed the file we attached that contains the Bitbucket ulimit and ulimit -n outputs? We need your help to identify the exact source of this deviation on .196, as the other three nodes are consistent.
 
-This will help us pinpoint the root cause of the high value being reported and check if it is linked to the spike/load issues we observed.
+---
+
+Short Description:
+
+Increase ulimit value in start_webapp.sh as per vendor recommendation
+
+
+---
+
+Description:
+
+As per vendor guidance, we are updating the ulimit (maximum open file limit) in the start_webapp.sh script from 6192 to 65536 in the production environment.
+The change has been validated in the development environment, where it worked as expected. This update aims to ensure optimal application performance and stability under higher load conditions.
+
+
+---
+
+Would you like me to make a slightly shorter version (for ticketing tools like Jira or ServiceNow)?
+
