@@ -1,8 +1,2 @@
-Hello Praneeth,
-
-As tomorrow is my last working day, I wanted to reach out and thank you for all your support. It’s been a pleasure working with you, and I truly appreciate the guidance and collaboration we shared.
-
-Wishing you all the best ahead!
-
-Best regards,
-Akash
+As tomorrow marks my last working day, I wanted to take a moment to thank you for all your guidance and support. It’s been great working together, and I truly value the experience.
+Wishing you continued success!
