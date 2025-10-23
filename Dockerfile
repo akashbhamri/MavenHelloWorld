@@ -1,2 +1,1 @@
-As tomorrow marks my last working day, I wanted to take a moment to thank you for all your guidance and support. It’s been great working together, and I truly value the experience.
-Wishing you continued success!
+Since tomorrow’s my last day, had to tell you—it’s been super fun working with you! Let’s keep in touch.
